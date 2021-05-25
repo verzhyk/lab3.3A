@@ -1,0 +1,7 @@
+C:\Users\veroz\OneDrive\Робочий стіл\newLaba6Vlad\newLaba6Vlad\bin\Debug\newLaba6Vlad.exe.config
+C:\Users\veroz\OneDrive\Робочий стіл\newLaba6Vlad\newLaba6Vlad\bin\Debug\newLaba6Vlad.exe
+C:\Users\veroz\OneDrive\Робочий стіл\newLaba6Vlad\newLaba6Vlad\bin\Debug\newLaba6Vlad.pdb
+C:\Users\veroz\OneDrive\Робочий стіл\newLaba6Vlad\newLaba6Vlad\obj\Debug\newLaba6Vlad.csprojAssemblyReference.cache
+C:\Users\veroz\OneDrive\Робочий стіл\newLaba6Vlad\newLaba6Vlad\obj\Debug\newLaba6Vlad.csproj.CoreCompileInputs.cache
+C:\Users\veroz\OneDrive\Робочий стіл\newLaba6Vlad\newLaba6Vlad\obj\Debug\newLaba6Vlad.exe
+C:\Users\veroz\OneDrive\Робочий стіл\newLaba6Vlad\newLaba6Vlad\obj\Debug\newLaba6Vlad.pdb
